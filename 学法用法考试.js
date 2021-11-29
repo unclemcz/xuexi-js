@@ -20,7 +20,7 @@ GM_addStyle(study_css);
 
     document.addEventListener('selectstart', function(e) {
         //GM_log(e.target.data);
-        //GM_setClipboard(e.target.data);
+        GM_setClipboard(e.target.data);
         $("textarea#zizhuPopupMainInput").val(e.target.data);
     }, false);
 
