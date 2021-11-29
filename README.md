@@ -9,4 +9,4 @@ forked from TechXueXi/techxuexi-js
 
 
 ### 公务员学法用法考试
-公务员学法用法考试 复制粘贴油猴脚本
+公务员学法用法考试油猴脚本，用法请自己摸索。
