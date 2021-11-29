@@ -8,5 +8,5 @@ forked from TechXueXi/techxuexi-js
 原版地址：https://github.com/TechXueXi/techxuexi-js
 
 
-### 公务员学法用法考试
+### 学法考试让你更快乐
 公务员学法用法考试油猴脚本，用法请自己摸索。
