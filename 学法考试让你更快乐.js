@@ -2,8 +2,8 @@
 // @name         一年一度学法考试
 // @namespace    http://wzfz.0577oa.net/
 // @version      2023年
-// @description  try to take over the world!
-// @author       mcz
+// @description  学法考试
+// @author       刘德华
 // @match        http://wzfz.0577oa.net/*
 // @icon         http://wzfz.0577oa.net/Images/logo.gif
 // @require      https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js
